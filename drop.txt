@@ -1,0 +1,1274 @@
+Frame1
+0.55 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.04 => [ladle]
+0.04 => [soap dispenser]
+0.03 => [beaker]
+0.02 => [coffeepot]
+
+Frame2
+0.36 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [teapot]
+0.04 => [ladle]
+0.04 => [coffeepot]
+0.03 => [soap dispenser]
+
+Frame3
+0.34 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.10 => [teapot]
+0.06 => [soap dispenser]
+0.05 => [ladle]
+0.04 => [coffeepot]
+
+Frame4
+0.41 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.10 => [teapot]
+0.05 => [coffeepot]
+0.04 => [soap dispenser]
+0.03 => [ladle]
+
+Frame5
+0.31 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.10 => [teapot]
+0.06 => [coffeepot]
+0.06 => [Crock Pot]
+0.05 => [soap dispenser]
+
+Frame6
+0.42 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [soap dispenser]
+0.06 => [teapot]
+0.05 => [coffeepot]
+0.03 => [Crock Pot]
+
+Frame7
+0.54 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [soap dispenser]
+0.05 => [teapot]
+0.03 => [coffeepot]
+0.02 => [ladle]
+
+Frame8
+0.70 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.04 => [bullet train, bullet]
+0.03 => [soap dispenser]
+0.02 => [mouse, computer mouse]
+0.01 => [beaker]
+
+Frame9
+0.64 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.03 => [soap dispenser]
+0.02 => [bullet train, bullet]
+0.02 => [cup]
+0.02 => [teapot]
+
+Frame10
+0.37 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.05 => [soap dispenser]
+0.03 => [beaker]
+0.03 => [bullet train, bullet]
+0.03 => [cassette]
+
+Frame11
+0.30 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [cassette]
+0.06 => [mouse, computer mouse]
+0.05 => [bullet train, bullet]
+0.04 => [waffle iron]
+
+Frame12
+0.45 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.03 => [soap dispenser]
+0.03 => [frying pan, frypan, skillet]
+0.03 => [coffeepot]
+0.02 => [washer, automatic washer, washing machine]
+
+Frame13
+0.30 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.10 => [dial telephone, dial phone]
+0.09 => [washer, automatic washer, washing machine]
+0.02 => [soap dispenser]
+0.02 => [bullet train, bullet]
+
+Frame14
+0.64 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.02 => [bullet train, bullet]
+0.02 => [washer, automatic washer, washing machine]
+0.02 => [soap dispenser]
+0.01 => [coffeepot]
+
+Frame15
+0.54 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [bullet train, bullet]
+0.04 => [washer, automatic washer, washing machine]
+0.02 => [bathtub, bathing tub, bath, tub]
+0.01 => [consomme]
+
+Frame16
+0.49 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.02 => [cup]
+0.02 => [toilet seat]
+0.02 => [frying pan, frypan, skillet]
+0.02 => [washer, automatic washer, washing machine]
+
+Frame17
+0.20 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [consomme]
+0.05 => [cup]
+0.04 => [bubble]
+0.04 => [goblet]
+
+Frame18
+0.10 => [consomme]
+0.09 => [bubble]
+0.09 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [Petri dish]
+0.05 => [goblet]
+
+Frame19
+0.31 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [consomme]
+0.05 => [bubble]
+0.04 => [cup]
+0.04 => [mixing bowl]
+
+Frame20
+0.17 => [bubble]
+0.14 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.10 => [goblet]
+0.05 => [Petri dish]
+0.04 => [red wine]
+
+Frame21
+0.24 => [goblet]
+0.21 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [red wine]
+0.05 => [bubble]
+0.05 => [fountain]
+
+Frame22
+0.26 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.14 => [goblet]
+0.05 => [tub, vat]
+0.04 => [consomme]
+0.04 => [fountain]
+
+Frame23
+0.24 => [goblet]
+0.14 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [red wine]
+0.06 => [fountain]
+0.05 => [candle, taper, wax light]
+
+Frame24
+0.24 => [goblet]
+0.18 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.16 => [fountain]
+0.03 => [bathtub, bathing tub, bath, tub]
+0.03 => [tub, vat]
+
+Frame25
+0.41 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.08 => [goblet]
+0.08 => [tub, vat]
+0.05 => [bathtub, bathing tub, bath, tub]
+0.03 => [candle, taper, wax light]
+
+Frame26
+0.44 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.17 => [goblet]
+0.05 => [beaker]
+0.04 => [candle, taper, wax light]
+0.03 => [red wine]
+
+Frame27
+0.42 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.09 => [goblet]
+0.05 => [beer glass]
+0.05 => [beaker]
+0.03 => [water bottle]
+
+Frame28
+0.30 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.19 => [goblet]
+0.07 => [beaker]
+0.04 => [strainer]
+0.04 => [beer glass]
+
+Frame29
+0.33 => [goblet]
+0.15 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.08 => [red wine]
+0.05 => [beaker]
+0.04 => [cup]
+
+Frame30
+0.20 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.18 => [goblet]
+0.06 => [beaker]
+0.06 => [red wine]
+0.06 => [cup]
+
+Frame31
+0.19 => [goblet]
+0.09 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.08 => [red wine]
+0.07 => [bubble]
+0.06 => [cup]
+
+Frame32
+0.35 => [goblet]
+0.13 => [red wine]
+0.08 => [beaker]
+0.05 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.05 => [bubble]
+
+Frame33
+0.29 => [goblet]
+0.10 => [red wine]
+0.09 => [beer glass]
+0.08 => [cup]
+0.07 => [beaker]
+
+Frame34
+0.22 => [goblet]
+0.22 => [bubble]
+0.10 => [red wine]
+0.10 => [Petri dish]
+0.04 => [beer glass]
+
+Frame35
+0.17 => [goblet]
+0.12 => [red wine]
+0.08 => [beaker]
+0.06 => [bubble]
+0.05 => [beer glass]
+
+Frame36
+0.15 => [Petri dish]
+0.13 => [beaker]
+0.09 => [goblet]
+0.08 => [beer glass]
+0.07 => [cup]
+
+Frame37
+0.18 => [beaker]
+0.15 => [Petri dish]
+0.09 => [beer glass]
+0.08 => [goblet]
+0.07 => [mixing bowl]
+
+Frame38
+0.20 => [goblet]
+0.13 => [red wine]
+0.10 => [beaker]
+0.08 => [beer glass]
+0.06 => [mixing bowl]
+
+Frame39
+0.28 => [goblet]
+0.10 => [beer glass]
+0.08 => [red wine]
+0.08 => [beaker]
+0.06 => [cup]
+
+Frame40
+0.21 => [goblet]
+0.14 => [cup]
+0.12 => [beer glass]
+0.09 => [beaker]
+0.08 => [red wine]
+
+Frame41
+0.19 => [cup]
+0.11 => [mixing bowl]
+0.09 => [goblet]
+0.07 => [beer glass]
+0.06 => [beaker]
+
+Frame42
+0.16 => [goblet]
+0.11 => [beaker]
+0.09 => [beer glass]
+0.08 => [red wine]
+0.07 => [cup]
+
+Frame43
+0.12 => [goblet]
+0.12 => [Petri dish]
+0.10 => [beaker]
+0.10 => [cup]
+0.07 => [red wine]
+
+Frame44
+0.19 => [beaker]
+0.09 => [goblet]
+0.07 => [mixing bowl]
+0.06 => [cup]
+0.06 => [Petri dish]
+
+Frame45
+0.14 => [beaker]
+0.06 => [mixing bowl]
+0.06 => [beer glass]
+0.06 => [cup]
+0.05 => [goblet]
+
+Frame46
+0.15 => [beaker]
+0.09 => [Petri dish]
+0.08 => [cup]
+0.07 => [beer glass]
+0.07 => [mixing bowl]
+
+Frame47
+0.18 => [beaker]
+0.14 => [mixing bowl]
+0.09 => [Petri dish]
+0.08 => [cup]
+0.07 => [beer glass]
+
+Frame48
+0.11 => [beaker]
+0.11 => [mixing bowl]
+0.10 => [cup]
+0.05 => [beer glass]
+0.04 => [Petri dish]
+
+Frame49
+0.17 => [beaker]
+0.07 => [Petri dish]
+0.05 => [nematode, nematode worm, roundworm]
+0.05 => [beer glass]
+0.03 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame50
+0.37 => [beaker]
+0.13 => [Petri dish]
+0.07 => [beer glass]
+0.05 => [potter's wheel]
+0.04 => [goblet]
+
+Frame51
+0.17 => [Petri dish]
+0.11 => [beer glass]
+0.09 => [goblet]
+0.08 => [beaker]
+0.07 => [mixing bowl]
+
+Frame52
+0.20 => [mixing bowl]
+0.10 => [goblet]
+0.09 => [cup]
+0.08 => [Petri dish]
+0.08 => [beaker]
+
+Frame53
+0.19 => [cup]
+0.18 => [mixing bowl]
+0.06 => [goblet]
+0.05 => [Petri dish]
+0.04 => [potter's wheel]
+
+Frame54
+0.06 => [beaker]
+0.05 => [mixing bowl]
+0.04 => [potter's wheel]
+0.04 => [cup]
+0.04 => [caldron, cauldron]
+
+Frame55
+0.13 => [mixing bowl]
+0.13 => [cup]
+0.06 => [beaker]
+0.05 => [beer glass]
+0.05 => [Petri dish]
+
+Frame56
+0.21 => [cup]
+0.15 => [mixing bowl]
+0.06 => [goblet]
+0.04 => [beer glass]
+0.03 => [caldron, cauldron]
+
+Frame57
+0.09 => [tiger shark, Galeocerdo cuvieri]
+0.06 => [great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias]
+0.06 => [grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus]
+0.05 => [dugong, Dugong dugon]
+0.05 => [hammerhead, hammerhead shark]
+
+Frame58
+0.14 => [caldron, cauldron]
+0.07 => [mixing bowl]
+0.06 => [potter's wheel]
+0.05 => [cup]
+0.03 => [beaker]
+
+Frame59
+0.18 => [beaker]
+0.10 => [Petri dish]
+0.03 => [goblet]
+0.03 => [caldron, cauldron]
+0.03 => [cup]
+
+Frame60
+0.08 => [tiger shark, Galeocerdo cuvieri]
+0.08 => [beaker]
+0.07 => [grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus]
+0.06 => [caldron, cauldron]
+0.05 => [cup]
+
+Frame61
+0.08 => [beaker]
+0.07 => [cup]
+0.05 => [Petri dish]
+0.04 => [mixing bowl]
+0.03 => [potter's wheel]
+
+Frame62
+0.13 => [cup]
+0.12 => [mixing bowl]
+0.07 => [caldron, cauldron]
+0.07 => [potter's wheel]
+0.04 => [soup bowl]
+
+Frame63
+0.11 => [mixing bowl]
+0.10 => [cup]
+0.09 => [potter's wheel]
+0.05 => [caldron, cauldron]
+0.05 => [frying pan, frypan, skillet]
+
+Frame64
+0.11 => [mixing bowl]
+0.07 => [caldron, cauldron]
+0.07 => [cup]
+0.07 => [frying pan, frypan, skillet]
+0.07 => [potter's wheel]
+
+Frame65
+0.08 => [cup]
+0.08 => [mixing bowl]
+0.08 => [potter's wheel]
+0.07 => [frying pan, frypan, skillet]
+0.06 => [grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus]
+
+Frame66
+0.12 => [cup]
+0.07 => [beaker]
+0.04 => [wok]
+0.03 => [frying pan, frypan, skillet]
+0.03 => [caldron, cauldron]
+
+Frame67
+0.19 => [cup]
+0.10 => [beaker]
+0.06 => [goblet]
+0.05 => [beer glass]
+0.03 => [coffee mug]
+
+Frame68
+0.15 => [beaker]
+0.12 => [water bottle]
+0.12 => [cup]
+0.11 => [goblet]
+0.11 => [beer glass]
+
+Frame69
+0.11 => [cup]
+0.09 => [water bottle]
+0.08 => [goblet]
+0.08 => [beer glass]
+0.06 => [beaker]
+
+Frame70
+0.20 => [cup]
+0.20 => [goblet]
+0.09 => [beer glass]
+0.07 => [beaker]
+0.05 => [mixing bowl]
+
+Frame71
+0.18 => [cup]
+0.12 => [beer glass]
+0.11 => [goblet]
+0.11 => [water bottle]
+0.08 => [beaker]
+
+Frame72
+0.22 => [cup]
+0.10 => [goblet]
+0.07 => [beer glass]
+0.04 => [thimble]
+0.04 => [mixing bowl]
+
+Frame73
+0.29 => [cup]
+0.09 => [goblet]
+0.07 => [beer glass]
+0.04 => [bubble]
+0.03 => [saltshaker, salt shaker]
+
+Frame74
+0.16 => [great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias]
+0.11 => [beer glass]
+0.08 => [tiger shark, Galeocerdo cuvieri]
+0.07 => [cup]
+0.05 => [beaker]
+
+Frame75
+0.20 => [cup]
+0.12 => [beer glass]
+0.08 => [beaker]
+0.06 => [saltshaker, salt shaker]
+0.05 => [goblet]
+
+Frame76
+0.24 => [cup]
+0.12 => [beaker]
+0.10 => [mixing bowl]
+0.07 => [beer glass]
+0.06 => [goblet]
+
+Frame77
+0.18 => [beaker]
+0.15 => [cup]
+0.09 => [beer glass]
+0.08 => [water bottle]
+0.06 => [goblet]
+
+Frame78
+0.20 => [cup]
+0.15 => [mixing bowl]
+0.07 => [goblet]
+0.07 => [beer glass]
+0.05 => [strainer]
+
+Frame79
+0.09 => [beer glass]
+0.08 => [cup]
+0.06 => [beaker]
+0.05 => [water bottle]
+0.05 => [caldron, cauldron]
+
+Frame80
+0.17 => [cup]
+0.12 => [mixing bowl]
+0.09 => [Petri dish]
+0.08 => [beer glass]
+0.07 => [beaker]
+
+Frame81
+0.12 => [cup]
+0.07 => [beer glass]
+0.07 => [beaker]
+0.05 => [water bottle]
+0.04 => [mixing bowl]
+
+Frame82
+0.12 => [beaker]
+0.10 => [beer glass]
+0.07 => [cup]
+0.05 => [Petri dish]
+0.04 => [potter's wheel]
+
+Frame83
+0.29 => [beaker]
+0.10 => [beer glass]
+0.08 => [cup]
+0.04 => [mixing bowl]
+0.03 => [Petri dish]
+
+Frame84
+0.16 => [beaker]
+0.07 => [caldron, cauldron]
+0.06 => [cup]
+0.06 => [beer glass]
+0.05 => [mixing bowl]
+
+Frame85
+0.16 => [mixing bowl]
+0.10 => [cup]
+0.08 => [beaker]
+0.07 => [Petri dish]
+0.06 => [goblet]
+
+Frame86
+0.28 => [beaker]
+0.11 => [Petri dish]
+0.09 => [cup]
+0.07 => [mixing bowl]
+0.07 => [beer glass]
+
+Frame87
+0.19 => [Petri dish]
+0.15 => [beaker]
+0.12 => [mixing bowl]
+0.06 => [cup]
+0.04 => [caldron, cauldron]
+
+Frame88
+0.31 => [beaker]
+0.23 => [Petri dish]
+0.06 => [nematode, nematode worm, roundworm]
+0.04 => [measuring cup]
+0.03 => [cup]
+
+Frame89
+0.43 => [beaker]
+0.15 => [nematode, nematode worm, roundworm]
+0.10 => [Petri dish]
+0.05 => [measuring cup]
+0.04 => [goblet]
+
+Frame90
+0.50 => [beaker]
+0.06 => [beer glass]
+0.06 => [water bottle]
+0.05 => [Petri dish]
+0.05 => [goblet]
+
+Frame91
+0.45 => [beaker]
+0.18 => [Petri dish]
+0.04 => [water bottle]
+0.03 => [beer glass]
+0.03 => [goblet]
+
+Frame92
+0.22 => [beaker]
+0.13 => [Petri dish]
+0.06 => [water bottle]
+0.05 => [beer glass]
+0.04 => [red wine]
+
+Frame93
+0.14 => [beaker]
+0.12 => [Petri dish]
+0.05 => [goblet]
+0.05 => [mixing bowl]
+0.05 => [beer glass]
+
+Frame94
+0.31 => [Petri dish]
+0.14 => [beaker]
+0.07 => [goblet]
+0.06 => [bubble]
+0.03 => [beer glass]
+
+Frame95
+0.22 => [beaker]
+0.10 => [goblet]
+0.08 => [water bottle]
+0.08 => [Petri dish]
+0.06 => [beer glass]
+
+Frame96
+0.30 => [Petri dish]
+0.22 => [beaker]
+0.13 => [nematode, nematode worm, roundworm]
+0.02 => [goblet]
+0.02 => [bubble]
+
+Frame97
+0.33 => [Petri dish]
+0.18 => [beaker]
+0.03 => [caldron, cauldron]
+0.03 => [nematode, nematode worm, roundworm]
+0.02 => [beer glass]
+
+Frame98
+0.44 => [beaker]
+0.13 => [Petri dish]
+0.06 => [beer glass]
+0.02 => [bubble]
+0.02 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame99
+0.36 => [beaker]
+0.11 => [Petri dish]
+0.06 => [beer glass]
+0.04 => [whiskey jug]
+0.03 => [caldron, cauldron]
+
+Frame100
+0.26 => [beaker]
+0.11 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [Petri dish]
+0.05 => [beer glass]
+0.04 => [caldron, cauldron]
+
+Frame101
+0.15 => [Petri dish]
+0.15 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.09 => [beaker]
+0.05 => [caldron, cauldron]
+0.05 => [goblet]
+
+Frame102
+0.09 => [Petri dish]
+0.08 => [beaker]
+0.08 => [goblet]
+0.05 => [caldron, cauldron]
+0.05 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame103
+0.13 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.08 => [caldron, cauldron]
+0.08 => [beaker]
+0.05 => [Petri dish]
+0.02 => [tub, vat]
+
+Frame104
+0.17 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.16 => [beaker]
+0.13 => [caldron, cauldron]
+0.05 => [bucket, pail]
+0.03 => [candle, taper, wax light]
+
+Frame105
+0.23 => [caldron, cauldron]
+0.12 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [bucket, pail]
+0.05 => [beaker]
+0.03 => [Petri dish]
+
+Frame106
+0.11 => [caldron, cauldron]
+0.10 => [strainer]
+0.08 => [beaker]
+0.06 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [Petri dish]
+
+Frame107
+0.11 => [beaker]
+0.07 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.04 => [caldron, cauldron]
+0.04 => [bucket, pail]
+0.04 => [tub, vat]
+
+Frame108
+0.11 => [beaker]
+0.07 => [goblet]
+0.05 => [cup]
+0.04 => [water bottle]
+0.03 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame109
+0.12 => [beaker]
+0.05 => [cup]
+0.05 => [goblet]
+0.04 => [strainer]
+0.04 => [Petri dish]
+
+Frame110
+0.09 => [beaker]
+0.06 => [mailbag, postbag]
+0.05 => [muzzle]
+0.05 => [mousetrap]
+0.03 => [black widow, Latrodectus mactans]
+
+Frame111
+0.24 => [beaker]
+0.07 => [goblet]
+0.03 => [Petri dish]
+0.02 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.02 => [water snake]
+
+Frame112
+0.30 => [beaker]
+0.10 => [goblet]
+0.05 => [Petri dish]
+0.04 => [cup]
+0.03 => [beer glass]
+
+Frame113
+0.26 => [beaker]
+0.04 => [goblet]
+0.04 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.03 => [water jug]
+0.03 => [cup]
+
+Frame114
+0.22 => [beaker]
+0.06 => [water jug]
+0.05 => [water bottle]
+0.04 => [beer glass]
+0.04 => [cocktail shaker]
+
+Frame115
+0.16 => [beaker]
+0.07 => [beer glass]
+0.04 => [goblet]
+0.04 => [water bottle]
+0.03 => [water jug]
+
+Frame116
+0.17 => [beaker]
+0.11 => [water bottle]
+0.06 => [beer glass]
+0.05 => [goblet]
+0.04 => [cocktail shaker]
+
+Frame117
+0.26 => [beaker]
+0.19 => [candle, taper, wax light]
+0.07 => [goblet]
+0.05 => [beer glass]
+0.04 => [water bottle]
+
+Frame118
+0.35 => [beaker]
+0.16 => [candle, taper, wax light]
+0.07 => [goblet]
+0.06 => [Petri dish]
+0.04 => [red wine]
+
+Frame119
+0.21 => [beaker]
+0.10 => [candle, taper, wax light]
+0.09 => [goblet]
+0.05 => [water bottle]
+0.04 => [beer glass]
+
+Frame120
+0.18 => [beaker]
+0.16 => [goblet]
+0.07 => [red wine]
+0.07 => [Petri dish]
+0.03 => [candle, taper, wax light]
+
+Frame121
+0.12 => [beaker]
+0.05 => [goblet]
+0.03 => [candle, taper, wax light]
+0.03 => [Petri dish]
+0.03 => [red wine]
+
+Frame122
+0.15 => [beaker]
+0.10 => [goblet]
+0.08 => [red wine]
+0.05 => [bubble]
+0.04 => [beer glass]
+
+Frame123
+0.16 => [beaker]
+0.07 => [goblet]
+0.07 => [red wine]
+0.05 => [beer glass]
+0.05 => [candle, taper, wax light]
+
+Frame124
+0.22 => [beaker]
+0.07 => [beer glass]
+0.07 => [goblet]
+0.06 => [candle, taper, wax light]
+0.04 => [red wine]
+
+Frame125
+0.46 => [beaker]
+0.10 => [goblet]
+0.06 => [red wine]
+0.05 => [Petri dish]
+0.04 => [beer glass]
+
+Frame126
+0.60 => [beaker]
+0.08 => [goblet]
+0.04 => [beer glass]
+0.03 => [red wine]
+0.03 => [water bottle]
+
+Frame127
+0.28 => [goblet]
+0.06 => [red wine]
+0.06 => [cup]
+0.05 => [beaker]
+0.05 => [beer glass]
+
+Frame128
+0.30 => [goblet]
+0.11 => [beaker]
+0.06 => [Petri dish]
+0.06 => [red wine]
+0.05 => [beer glass]
+
+Frame129
+0.32 => [potter's wheel]
+0.18 => [goblet]
+0.07 => [beaker]
+0.03 => [beer glass]
+0.03 => [cup]
+
+Frame130
+0.54 => [goblet]
+0.08 => [beaker]
+0.06 => [candle, taper, wax light]
+0.05 => [red wine]
+0.05 => [beer glass]
+
+Frame131
+0.61 => [goblet]
+0.05 => [beer glass]
+0.04 => [candle, taper, wax light]
+0.04 => [red wine]
+0.02 => [beaker]
+
+Frame132
+0.43 => [goblet]
+0.15 => [beer glass]
+0.05 => [red wine]
+0.04 => [cup]
+0.03 => [beaker]
+
+Frame133
+0.45 => [goblet]
+0.10 => [beer glass]
+0.05 => [cup]
+0.05 => [beaker]
+0.05 => [red wine]
+
+Frame134
+0.44 => [goblet]
+0.08 => [beaker]
+0.08 => [beer glass]
+0.06 => [cup]
+0.04 => [red wine]
+
+Frame135
+0.37 => [goblet]
+0.10 => [beer glass]
+0.08 => [beaker]
+0.04 => [water bottle]
+0.04 => [cup]
+
+Frame136
+0.21 => [goblet]
+0.08 => [beer glass]
+0.07 => [beaker]
+0.06 => [red wine]
+0.03 => [candle, taper, wax light]
+
+Frame137
+0.48 => [goblet]
+0.10 => [beer glass]
+0.07 => [red wine]
+0.07 => [beaker]
+0.03 => [candle, taper, wax light]
+
+Frame138
+0.29 => [goblet]
+0.19 => [beaker]
+0.16 => [beer glass]
+0.03 => [red wine]
+0.03 => [candle, taper, wax light]
+
+Frame139
+0.21 => [beaker]
+0.16 => [goblet]
+0.12 => [beer glass]
+0.06 => [candle, taper, wax light]
+0.03 => [red wine]
+
+Frame140
+0.17 => [goblet]
+0.14 => [beaker]
+0.11 => [beer glass]
+0.06 => [candle, taper, wax light]
+0.04 => [water bottle]
+
+Frame141
+0.18 => [beaker]
+0.17 => [goblet]
+0.12 => [beer glass]
+0.05 => [cup]
+0.04 => [water bottle]
+
+Frame142
+0.24 => [beaker]
+0.10 => [goblet]
+0.08 => [beer glass]
+0.05 => [water bottle]
+0.04 => [cup]
+
+Frame143
+0.22 => [beaker]
+0.14 => [goblet]
+0.06 => [water bottle]
+0.05 => [fountain]
+0.05 => [beer glass]
+
+Frame144
+0.13 => [beaker]
+0.11 => [water bottle]
+0.04 => [candle, taper, wax light]
+0.04 => [goblet]
+0.04 => [fountain]
+
+Frame145
+0.08 => [beaker]
+0.07 => [fountain]
+0.06 => [candle, taper, wax light]
+0.04 => [thimble]
+0.04 => [cocktail shaker]
+
+Frame146
+0.14 => [beaker]
+0.08 => [cocktail shaker]
+0.08 => [pickelhaube]
+0.05 => [pedestal, plinth, footstall]
+0.05 => [goblet]
+
+Frame147
+0.29 => [beaker]
+0.15 => [goblet]
+0.06 => [cocktail shaker]
+0.05 => [beer glass]
+0.03 => [ladle]
+
+Frame148
+0.40 => [beaker]
+0.07 => [beer glass]
+0.06 => [water bottle]
+0.05 => [goblet]
+0.03 => [perfume, essence]
+
+Frame149
+0.33 => [beaker]
+0.13 => [beer glass]
+0.12 => [goblet]
+0.07 => [pickelhaube]
+0.02 => [cup]
+
+Frame150
+0.31 => [goblet]
+0.19 => [beaker]
+0.08 => [beer glass]
+0.03 => [pickelhaube]
+0.02 => [cocktail shaker]
+
+Frame151
+0.36 => [goblet]
+0.10 => [beer glass]
+0.07 => [cocktail shaker]
+0.07 => [beaker]
+0.03 => [candle, taper, wax light]
+
+Frame152
+0.23 => [goblet]
+0.13 => [beaker]
+0.08 => [cocktail shaker]
+0.06 => [beer glass]
+0.04 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame153
+0.20 => [goblet]
+0.19 => [pickelhaube]
+0.06 => [fountain]
+0.05 => [beer glass]
+0.04 => [candle, taper, wax light]
+
+Frame154
+0.23 => [goblet]
+0.09 => [potter's wheel]
+0.07 => [beaker]
+0.06 => [beer glass]
+0.05 => [cocktail shaker]
+
+Frame155
+0.14 => [potter's wheel]
+0.13 => [goblet]
+0.07 => [beaker]
+0.05 => [beer glass]
+0.04 => [cocktail shaker]
+
+Frame156
+0.17 => [beaker]
+0.10 => [beer glass]
+0.07 => [goblet]
+0.04 => [cup]
+0.03 => [cocktail shaker]
+
+Frame157
+0.13 => [beaker]
+0.08 => [goblet]
+0.07 => [beer glass]
+0.05 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.03 => [bubble]
+
+Frame158
+0.22 => [beaker]
+0.08 => [beer glass]
+0.04 => [goblet]
+0.04 => [bubble]
+0.03 => [cocktail shaker]
+
+Frame159
+0.20 => [beaker]
+0.08 => [pickelhaube]
+0.07 => [cuirass]
+0.05 => [water bottle]
+0.04 => [perfume, essence]
+
+Frame160
+0.13 => [pickelhaube]
+0.08 => [beaker]
+0.05 => [water bottle]
+0.05 => [perfume, essence]
+0.04 => [beer glass]
+
+Frame161
+0.22 => [beaker]
+0.16 => [beer glass]
+0.12 => [goblet]
+0.08 => [perfume, essence]
+0.07 => [bubble]
+
+Frame162
+0.28 => [beaker]
+0.11 => [cocktail shaker]
+0.05 => [beer glass]
+0.04 => [ladle]
+0.04 => [perfume, essence]
+
+Frame163
+0.31 => [beaker]
+0.06 => [beer glass]
+0.03 => [perfume, essence]
+0.03 => [water bottle]
+0.03 => [pickelhaube]
+
+Frame164
+0.20 => [beaker]
+0.09 => [beer glass]
+0.05 => [cocktail shaker]
+0.04 => [pickelhaube]
+0.04 => [perfume, essence]
+
+Frame165
+0.21 => [beaker]
+0.09 => [goblet]
+0.06 => [beer glass]
+0.05 => [cocktail shaker]
+0.05 => [great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias]
+
+Frame166
+0.15 => [beaker]
+0.09 => [goblet]
+0.05 => [beer glass]
+0.05 => [perfume, essence]
+0.04 => [water bottle]
+
+Frame167
+0.14 => [perfume, essence]
+0.10 => [pickelhaube]
+0.10 => [goblet]
+0.07 => [ladle]
+0.06 => [cocktail shaker]
+
+Frame168
+0.26 => [goblet]
+0.09 => [beaker]
+0.07 => [cocktail shaker]
+0.05 => [perfume, essence]
+0.04 => [beer glass]
+
+Frame169
+0.31 => [goblet]
+0.06 => [beaker]
+0.06 => [cocktail shaker]
+0.06 => [beer glass]
+0.05 => [ladle]
+
+Frame170
+0.12 => [goblet]
+0.09 => [beaker]
+0.08 => [perfume, essence]
+0.06 => [cocktail shaker]
+0.05 => [water bottle]
+
+Frame171
+0.08 => [goblet]
+0.07 => [beaker]
+0.07 => [water bottle]
+0.06 => [cocktail shaker]
+0.06 => [perfume, essence]
+
+Frame172
+0.10 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [water bottle]
+0.06 => [cocktail shaker]
+0.06 => [beaker]
+0.05 => [ladle]
+
+Frame173
+0.13 => [beaker]
+0.07 => [Petri dish]
+0.06 => [bubble]
+0.06 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.06 => [cocktail shaker]
+
+Frame174
+0.10 => [beaker]
+0.09 => [goblet]
+0.08 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.08 => [ladle]
+0.08 => [strainer]
+
+Frame175
+0.10 => [beaker]
+0.09 => [ladle]
+0.08 => [cocktail shaker]
+0.08 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [mixing bowl]
+
+Frame176
+0.12 => [beaker]
+0.08 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+0.07 => [ladle]
+0.06 => [Petri dish]
+0.05 => [mixing bowl]
+
+Frame177
+0.16 => [beaker]
+0.11 => [goblet]
+0.11 => [Petri dish]
+0.07 => [bubble]
+0.03 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame178
+0.33 => [beaker]
+0.08 => [bubble]
+0.08 => [beer glass]
+0.06 => [water bottle]
+0.05 => [Petri dish]
+
+Frame179
+0.15 => [beaker]
+0.07 => [goblet]
+0.06 => [beer glass]
+0.05 => [bubble]
+0.03 => [washbasin, handbasin, washbowl, lavabo, wash-hand basin]
+
+Frame180
+0.10 => [goblet]
+0.10 => [beaker]
+0.06 => [bubble]
+0.06 => [cup]
+0.05 => [beer glass]
+
+Frame181
+0.11 => [Petri dish]
+0.06 => [goblet]
+0.06 => [mixing bowl]
+0.05 => [bubble]
+0.03 => [chocolate sauce, chocolate syrup]
+
+Frame182
+0.10 => [bubble]
+0.08 => [mixing bowl]
+0.08 => [goblet]
+0.07 => [Petri dish]
+0.05 => [ladle]
+
